@@ -1,2 +1,3 @@
-# dkw-16-multi-k8s
-Docker Kubernetes Workout - Multi Container Kubernetes
+# dkw_16_multi_k8s
+
+Chapter 16 of docker-k8s-workout (Multi Container with K8s)
